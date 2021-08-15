@@ -43,7 +43,7 @@
     "workbox-streams": "^5.1.4"
   },
   "scripts": {
-    "predeploy": "yarn build",
+    "predeploy": "ionic build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
