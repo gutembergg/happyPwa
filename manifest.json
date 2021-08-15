@@ -1,9 +1,9 @@
 {
   "theme_color": "#f69435",
   "background_color": "#f69435",
-  "display": "browser",
-  "scope": "/",
-  "start_url": "/",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
   "name": "happy",
   "short_name": "h-v2",
   "description": "Orphanages help application",
