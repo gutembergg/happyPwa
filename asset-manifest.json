@@ -3,15 +3,15 @@
     "static/js/0.1b0686d1.chunk.js": "/happyPwa/static/js/0.1b0686d1.chunk.js",
     "static/js/0.1b0686d1.chunk.js.map": "/happyPwa/static/js/0.1b0686d1.chunk.js.map",
     "main.css": "/happyPwa/static/css/main.86f466f7.chunk.css",
-    "main.js": "/happyPwa/static/js/main.9a613e46.chunk.js",
-    "main.js.map": "/happyPwa/static/js/main.9a613e46.chunk.js.map",
+    "main.js": "/happyPwa/static/js/main.6981a30c.chunk.js",
+    "main.js.map": "/happyPwa/static/js/main.6981a30c.chunk.js.map",
     "polyfills-dom.js": "/happyPwa/static/js/polyfills-dom.c60ee0c6.chunk.js",
     "polyfills-dom.js.map": "/happyPwa/static/js/polyfills-dom.c60ee0c6.chunk.js.map",
     "runtime-main.js": "/happyPwa/static/js/runtime-main.64b59b22.js",
     "runtime-main.js.map": "/happyPwa/static/js/runtime-main.64b59b22.js.map",
     "static/css/4.532f36fa.chunk.css": "/happyPwa/static/css/4.532f36fa.chunk.css",
-    "static/js/4.c0a6acd6.chunk.js": "/happyPwa/static/js/4.c0a6acd6.chunk.js",
-    "static/js/4.c0a6acd6.chunk.js.map": "/happyPwa/static/js/4.c0a6acd6.chunk.js.map",
+    "static/js/4.cb582763.chunk.js": "/happyPwa/static/js/4.cb582763.chunk.js",
+    "static/js/4.cb582763.chunk.js.map": "/happyPwa/static/js/4.cb582763.chunk.js.map",
     "static/js/5.f4e84d4c.chunk.js": "/happyPwa/static/js/5.f4e84d4c.chunk.js",
     "static/js/5.f4e84d4c.chunk.js.map": "/happyPwa/static/js/5.f4e84d4c.chunk.js.map",
     "static/js/6.15211604.chunk.js": "/happyPwa/static/js/6.15211604.chunk.js",
@@ -125,15 +125,15 @@
     "service-worker.js.map": "/happyPwa/service-worker.js.map",
     "static/css/4.532f36fa.chunk.css.map": "/happyPwa/static/css/4.532f36fa.chunk.css.map",
     "static/css/main.86f466f7.chunk.css.map": "/happyPwa/static/css/main.86f466f7.chunk.css.map",
-    "static/js/4.c0a6acd6.chunk.js.LICENSE.txt": "/happyPwa/static/js/4.c0a6acd6.chunk.js.LICENSE.txt",
+    "static/js/4.cb582763.chunk.js.LICENSE.txt": "/happyPwa/static/js/4.cb582763.chunk.js.LICENSE.txt",
     "static/js/52.b0844688.chunk.js.LICENSE.txt": "/happyPwa/static/js/52.b0844688.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.c60ee0c6.chunk.js.LICENSE.txt": "/happyPwa/static/js/polyfills-dom.c60ee0c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.64b59b22.js",
     "static/css/4.532f36fa.chunk.css",
-    "static/js/4.c0a6acd6.chunk.js",
+    "static/js/4.cb582763.chunk.js",
     "static/css/main.86f466f7.chunk.css",
-    "static/js/main.9a613e46.chunk.js"
+    "static/js/main.6981a30c.chunk.js"
   ]
 }
